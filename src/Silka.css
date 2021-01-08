@@ -1,0 +1,9 @@
+.silka_wrapper {
+    border: 1px solid red;
+    max-width: 80%;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 5%;
+    background: rgb(0, 0, 0, 0.7);
+    
+}
